@@ -1,0 +1,6 @@
+.idea/
+Git.iml
+*.sass
+bin/
+admin/
+config/
